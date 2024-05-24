@@ -19,11 +19,11 @@ social: true  # includes social icons at the bottom of the page
 
 I'm a PhD Candidate with Dr. Tanzeem Choudhury at Cornell Tech. I'm currently working with the wonderful people at [People-Aware Computing Lab](https://pac.cs.cornell.edu/). 
 
-I focus on developing **mindless interventions** that can facilitate emotion regulation with minimal attention from the users. I take inspirations from cognitive neuroscience, build devices, design behavioral experiments, and deploy! 
+I focus on developing **mindless interventions**, behavioral interventions that are effective with minimal attention and effort. I take inspiration from cognitive neuroscience, build devices, design behavioral experiments, and deploy! 
 
 In the past, I've worked with the iMed group led by Dr. Wanda Pratt, the Ubiquitous Computing group led by Dr. Shwetak Patel, the neuroscience-y labs and Invention Studio in Georgia Tech, and Meta Reality Labs. 
 
-This page is under re-construction :(. For publications, please use my Google Scholar page. For what I've done, please go to the *cv* tab and click on the PDF icon. 
+For publications, please use my Google Scholar page. For what I've done, please go to the *cv* tab and click on the PDF icon. 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
