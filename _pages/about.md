@@ -17,13 +17,14 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a PhD Candidate with professors Tanzeem Choudhury, Qian Yang, and Rana Zadeh at Cornell Tech. I'm currently working with the wonderful people at [People-Aware Computing Lab](https://pac.cs.cornell.edu/). 
+I'm a PhD Candidate with professors Tanzeem Choudhury, Qian Yang, and Rana Zadeh at Cornell Tech. I'm currently working with the wonderful people at [People-Aware Computing Lab](https://pac.cs.cornell.edu/). In the past, I've worked with the iMed group led by Dr. Wanda Pratt, the Ubiquitous Computing group led by Dr. Shwetak Patel, the neuroscience labs and Invention Studio in Georgia Tech, Meta Reality Labs, and the MakerLab at Cornell Tech. 
 
 I focus on developing **mindless interventions**, behavioral interventions that are effective with minimal attention and effort. I take inspiration from cognitive neuroscience, build devices, design behavioral experiments, and deploy them to both in-lab and real-world. 
 
-In the past, I've worked with the iMed group led by Dr. Wanda Pratt, the Ubiquitous Computing group led by Dr. Shwetak Patel, the neuroscience labs and Invention Studio in Georgia Tech, Meta Reality Labs, and the MakerLab at Cornell Tech. 
+Right now, I'm deploying the first [in-the-wild evaluation](https://dl.acm.org/doi/10.1145/3675094.3678373) for mindless interventions. I'm also working on my startup to increase the impact of mindless interventions through commercialization
 
-For publications, please use my Google Scholar page. For what I have done, please go to the *cv* tab and click on the PDF icon. 
+
+For publications, please use my Google Scholar page. For more details on what I have done, please go to the *cv* tab and click on the PDF icon. 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
