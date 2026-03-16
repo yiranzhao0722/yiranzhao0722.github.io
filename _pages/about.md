@@ -17,14 +17,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a PhD Candidate with professors Tanzeem Choudhury, Qian Yang, and Rana Zadeh at Cornell Tech. I'm currently working with the wonderful people at [People-Aware Computing Lab](https://pac.cs.cornell.edu/). In the past, I've worked with the iMed group led by Dr. Wanda Pratt, the Ubiquitous Computing group led by Dr. Shwetak Patel, the neuroscience labs and Invention Studio in Georgia Tech, Meta Reality Labs, and the MakerLab at Cornell Tech. 
+I am the founder and CEO of [SomaBeats Health](somabeats.health), a company dedicated to making behavioral health interventions effortless so that they can seamlessly integrate with modern lifestyles.  **Mindless Interventions** was my research motto during Ph.D. years and is SomaBeat's DNA. I am also the founder and lead producer of MoonWave Labs, an indie game studio creating folklore-core adventure games that snap back to the 2000-2010s Chinese society and my cultural origin, the Manchu people. 
 
-I focus on developing **mindless interventions**, behavioral interventions that are effective with minimal attention and effort. I take inspiration from cognitive neuroscience, build devices, design behavioral experiments, and deploy them to both in-lab and real-world. 
+I got my Ph.D. at Cornell University, under the guidance of professors Tanzeem Choudhury, Qian Yang, and Rana Zadeh at Cornell Tech. I'm currently working with the wonderful people at [People-Aware Computing Lab](https://pac.cs.cornell.edu/). In the past, I was advised by Dr. Wanda Pratt and Dr. Shwetak Patel from the University of Washington. I've also worked in the neuroscience labs and the Invention Studio at Georgia Tech, Meta Reality Labs, and the MakerLab at Cornell Tech. 
 
-Right now, I'm deploying the first [in-the-wild evaluation](https://dl.acm.org/doi/10.1145/3675094.3678373) for mindless interventions. I'm also working on my startup to increase the impact of mindless interventions through commercialization
+I'm a generalist with focus. I draw inspiration from my expertise in cognitive neuroscience, behavioral science, biomedical engineering, and human-AI interactions. I build devices, develop AI architecture, design behavioral experiments, and deploy systems for preclinical and clinical validations. I have also been a novelist for 15 years, a film photographer for 7 years, and a martial arts enthusiast for 10 years. 
 
-
-For publications, please use my Google Scholar page. For more details on what I have done, please go to the *cv* tab and click on the PDF icon. 
+For business partnerships or interests in building the future of behavioral health with me, poke me on LinkedIn. For publications, use my Google Scholar page. For more details on my professional life, please go to the *CV* tab and click on the PDF icon. 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
