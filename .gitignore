@@ -9,3 +9,7 @@ _site
 Gemfile.lock
 vendor
 
+.DS_Store
+_pages/.DS_Store
+blog/.DS_Store
+blog/page/.DS_Store
